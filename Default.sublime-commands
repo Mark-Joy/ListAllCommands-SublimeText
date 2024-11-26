@@ -1,0 +1,7 @@
+[
+  // [ListAllCommands] command
+  {
+    "caption": "List All Commands",
+    "command": "list_all_commands"
+  }
+]
